@@ -1,5 +1,5 @@
 <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" /></p>
-<h1🐸 Python-Basic-for-Machine-learning- </h1>
+<h1> 🐸 Python-Basic-for-Machine-learning- </h1>
   
 <p> In these Notebooks we will discuss the basics of Python and some other libraries such as numpy,Pandas and tensorflow, then we will discuss linear regression ,images classification and Hand written digits </p> 
 
@@ -68,10 +68,8 @@
               <li>Eigenvalue and Eigenvector</li>
               <li>Determinant</li>
               <li>Linear Equation Solving</li>
-            </ul>
-        
+        </ul>
       </ul>
-  
   <li>python(Pandas)</li>
   <ul>
     <li>Data Structures for Manipulating Data</li>
