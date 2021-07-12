@@ -9,26 +9,53 @@
 <ul>
   <li>python basics:</li>
       <ul>
-        <li>Lists</li>
-        <li>Tuples</li>
-        <li>Strings</li>
-        <li>Dictionaries:</li>
-        <li>Conditional and Looping Statements:</li>
-              <ul>
-                <li>while Statements</li>
-                <li>for Statements</li>
-                <li>Loop Nesting</li>
-                <li>break and continue</li>
-              </ul>
-        <li>Functions</li>
-        <ul>
-        <li>Argument Types</li>  
-        <li>Common built-in functions</li>
-        <li>OS-Related Calling and Functions - sys</li>
-          <li>Lambda functions</li>  
-        </ul>
-        <li>Hand on</li>
-        
+            <li>Lists</li>
+            <li>Tuples</li>
+            <li>Strings</li>
+            <li>Dictionaries:</li>
+            <li>Conditional and Looping Statements:</li>
+                  <ul>
+                    <li>while Statements</li>
+                    <li>for Statements</li>
+                    <li>Loop Nesting</li>
+                    <li>break and continue</li>
+                  </ul>
+            <li>Functions</li>
+                   <ul>
+                    <li>Argument Types</li>  
+                    <li>Common built-in functions</li>
+                    <li>OS-Related Calling and Functions - sys</li>
+                    <li>Lambda functions</li>  
+                    </ul>
+            <li>Hand on</li>
       </ul>
+  
+  <li>python basic 2</li>
+      <ul>
+        <li>Conditional and Looping Statements Examples</li>
+        <li>Types of Arguments</li>
+        <ul>
+          <li>Keyword argument</li>
+          <li>* and ** as Prefix Operators(unpacking operator)</li>
+        </ul>
+        <li>Object-Oriented Programming basis</li>
+        <li>Hands-On</li>        
+      </ul>
+  <li>python basic 3</li>
+  <ul>
+    <li>Data and Time</li>
+      <ul>
+           <li>Format Date</li>
+           <li>Format Time</li>
+           <li>Converting datetime to timestamp</li>
+           <li>Converting timestamp to datetime</li>
+           <li>Get Calendar of a Month</li>
+       </ul>
+    <li>Regular Expression (RegEx)</li>
+    <li>File Manipulation</li>
+    <li>Hands on</li>
+  </ul>
+  
+  <li></li>
   
 </ul>  
