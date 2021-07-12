@@ -77,5 +77,10 @@
     <li>Data cleaning</li>
   </ul>
   
-  <li></li>
+  <li>Linear Regression (Easy)</li>
+  <li>Linear Regression [Medium]</li>
+  <li>Linear Regression[Difficult]</li>
+  <li>Tensorflow</li>
+  <li>Img Classification</li>
+  <li>Handwritten Digits</li>
 </ul>  
