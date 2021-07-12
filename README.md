@@ -4,8 +4,8 @@
   
 <p> In these Notebooks we will discuss the basics of Python and some other libraries such as numpy,Pandas and tensorflow, then we will discuss linear regression ,images classification and Hand written digits </p> 
 <h2>👀 Note that : </h2>
-<p><a href="https://colab.research.google.com/notebooks/">  <img align="right" style="margin-top:0"src="https://colab.research.google.com/img/colab_favicon.ico" alt="colab notebooks" width="100" height="50" /></a></p>
-<p style="margin-top:0"><a href="https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-e3lhqkr7/lab/tree/demo"> <img align="right" style="margin-top:0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupter notebooks" width="100" height="50" /></a></p>
+<p><a href="https://colab.research.google.com/notebooks/">  <img align="right" style="margin-top:0"src="https://colab.research.google.com/img/colab_favicon.ico" alt="colab notebooks" width="100" height="50" /></a>
+<a href="https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-e3lhqkr7/lab/tree/demo"> <img align="right" style="margin-top:0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupter notebooks" width="100" height="50" /></a></p>
 <p> You can open these notebooks with colab or jupter</p>
 
 
