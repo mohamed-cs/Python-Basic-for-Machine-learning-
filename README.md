@@ -56,6 +56,27 @@
     <li>Hands on</li>
   </ul>
   
-  <li></li>
+  <li>python (Maths basics, numpy)</li>
+      <ul>
+        <li>Math built in function</li>
+        <li>Linear Algebra</li>
+            <ul>
+                  <li>matrices</li>
+                  <li>Matrix Multiplication</li>              
+                  <li>Matrix Corresponding Operation</li>
+                  <li>Inverse Matrix Implementation</li>
+              <li>Eigenvalue and Eigenvector</li>
+              <li>Determinant</li>
+              <li>Linear Equation Solving</li>
+            </ul>
+        
+      </ul>
   
+  <li>python(Pandas)</li>
+  <ul>
+    <li>Data Structures for Manipulating Data</li>
+    <li>Data cleaning</li>
+  </ul>
+  
+  <li></li>
 </ul>  
