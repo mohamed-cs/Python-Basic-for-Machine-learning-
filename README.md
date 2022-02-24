@@ -1,4 +1,4 @@
-<p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" /></p>
+<!-- <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" /></p> -->
 <h1> 🐸 Python-Basic-for-Machine-learning- </h1>
   
 <p> In these Notebooks we will discuss the basics of Python and some other libraries such as numpy,Pandas and tensorflow, then we will discuss linear regression ,images classification and Hand written digits </p> 
