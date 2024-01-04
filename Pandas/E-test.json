@@ -1,0 +1,27 @@
+[
+    {
+        "employee_id": 1,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "salary": 80000
+    },
+    {
+        "employee_id": 2,
+        "name": "Jane Smith",
+        "position": "Data Scientist",
+        "salary": 90000
+    },
+    {
+        "employee_id": 3,
+        "name": "Bob Johnson",
+        "position": "UX Designer",
+        "salary": 75000
+    },
+    {
+        "employee_id": 4,
+        "name": "Alice Williams",
+        "position": "Project Manager",
+        "salary": 100000
+    }
+]
+
